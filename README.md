@@ -88,6 +88,10 @@ public class Deepanshu extends Developer {
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
+### 🧪 Performance Testing
+
+![Apache JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![Taurus](https://img.shields.io/badge/Taurus-0066CC?style=for-the-badge)
 ---
 
 ## 🚀 Featured Projects
@@ -180,13 +184,9 @@ public class Deepanshu extends Developer {
 📌 Preparing for SDE Interviews
 ```
 
----
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
-
-![](https://komarev.com/ghpvc/?username=deepanshu-s-21&style=for-the-badge&color=blueviolet)
 
 <sub>💜 Crafted with passion by <strong>Deepanshu Singh</strong> · Backend Developer · Open to SDE Opportunities</sub>
 
