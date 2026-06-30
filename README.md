@@ -14,7 +14,6 @@
 
 ```java
 public class Deepanshu extends Developer {
-
     String stack = "Spring Boot", "MERN (MongoDB, Express.js, React.js, Node.js)";
     String[] languages = {"Java", "Python", "C"};
     String[] interests = {
