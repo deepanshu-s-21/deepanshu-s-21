@@ -95,7 +95,7 @@ public class Deepanshu extends Developer {
 
 ## 🚀 Featured Projects
 
-### 🩺 DiagnostiX — AI-Powered Disease Prediction Platform
+### [🩺 DiagnostiX — AI-Powered Disease Prediction Platform](https://github.com/deepanshu-s-21/diagnostix)
 
 > `React.js` `Flask` `Python` `Scikit-learn` `Pandas` `NumPy`
 
@@ -107,7 +107,7 @@ public class Deepanshu extends Developer {
 
 ---
 
-### 📝 Draftigo — AI Email Reply Generator
+### [📝 Draftigo — AI Email Reply Generator](https://github.com/deepanshu-s-21/draftigo)
 
 > `Spring Boot` `Java` `React.js` `REST APIs` `Generative AI`
 
@@ -159,7 +159,7 @@ public class Deepanshu extends Developer {
 
 | Platform | Progress |
 |----------|----------|
-| 🟡 LeetCode | **190+ Problems Solved** |
+| 🟡 LeetCode | **200+ Problems Solved** |
 | 🟢 GeeksforGeeks | **200+ Problems Solved** |
 | 🤎 CodeChef | **2-Star Coder** |
 
