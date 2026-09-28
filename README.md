@@ -14,15 +14,16 @@
 
 ```java
 public class Deepanshu extends Developer {
-    String stack = "Spring Boot", "MERN (MongoDB, Express.js, React.js, Node.js)";
-    String[] languages = {"Java", "Python", "C"};
-    String[] interests = {
+    String []stack = "Spring Boot", "MERN (MongoDB, Express.js, React.js, Node.js)";
+    String []languages = {"Java", "Python", "C"};
+    String []interests = {
         "Data Structures and Algorithms"
         "Full Stack Development",
         "Distributed Systems"
     };
     String goal = "Become a Software Engineer";
     boolean openToWork = true;
+
     @Override
     public String introduce() {
         return "Building scalable backend systems and solving real-world problems.";
