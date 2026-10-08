@@ -160,7 +160,7 @@ public class Deepanshu extends Developer {
 
 | Platform | Progress |
 |----------|----------|
-| 🟡 LeetCode | **300+ Problems Solved** |
+| 🟡 LeetCode | **350+ Problems Solved** |
 | 🟢 GeeksforGeeks | **200+ Problems Solved** |
 | 🤎 CodeChef | **2-Star Coder** |
 
