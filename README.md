@@ -35,7 +35,7 @@ public class Deepanshu extends Developer {
 - 💻 Passionate about **Backend Development, Distributed Systems and Scalable Software**
 - 🌱 Currently learning **System Design, Microservices and Distributed Architecture**
 - ⚡ Building projects using **Spring Boot, FastAPI, Angular, Java and Python**
-- 🧩 Solved **500+ DSA Problems** across coding platforms
+- 🧩 Solved **600+ DSA Problems** across coding platforms
 - 📬 Reach me at **deepanshu124singh@gmail.com**
 
 ---
