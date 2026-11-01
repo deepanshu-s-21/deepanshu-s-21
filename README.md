@@ -124,21 +124,7 @@ public class Deepanshu extends Developer {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=deepanshu-s-21&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
-
-<img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=deepanshu-s-21&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
-
-</div>
-
-<div align="center">
-
 <img width="60%" src="https://streak-stats.demolab.com/?user=deepanshu-s-21&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=deepanshu-s-21&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
