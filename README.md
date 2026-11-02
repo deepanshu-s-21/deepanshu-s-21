@@ -120,16 +120,6 @@ public class Deepanshu extends Developer {
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="60%" src="https://streak-stats.demolab.com/?user=deepanshu-s-21&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## 📈 My Contribution Graph
 
 <picture>
