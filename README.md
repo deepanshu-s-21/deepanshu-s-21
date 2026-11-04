@@ -98,7 +98,7 @@ public class Deepanshu extends Developer {
 
 ### [🩺 DiagnostiX — AI-Powered Disease Prediction Platform](https://github.com/deepanshu-s-21/diagnostix)
 
-> `React.js` `Flask` `Python` `Scikit-learn` `Pandas` `NumPy`
+> `Python` `Flask` `React.js` `Scikit-learn` `Pandas` `NumPy`
 
 - Developed an AI-powered web application that predicts potential diseases based on user-selected symptoms using machine learning models.
 - Built an interactive and responsive **React.js** frontend for seamless symptom selection and prediction visualization.
@@ -110,7 +110,7 @@ public class Deepanshu extends Developer {
 
 ### [📝 Draftigo — AI Email Reply Generator](https://github.com/deepanshu-s-21/draftigo)
 
-> `Spring Boot` `Java` `React.js` `REST APIs` `Generative AI`
+> `Java` `Spring Boot` `React.js` `REST APIs` `Generative AI`
 
 - Built an AI-powered email assistant that generates professional and context-aware email replies instantly.
 - Developed a robust **Spring Boot** backend exposing REST APIs for seamless frontend communication.
