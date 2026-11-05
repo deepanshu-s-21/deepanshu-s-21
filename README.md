@@ -96,6 +96,18 @@ public class Deepanshu extends Developer {
 
 ## 🚀 Featured Projects
 
+### [⚙️ TaskSphere — Distributed Task Scheduler with Fault Tolerance](https://github.com/deepanshu-s-21/TaskSphere)
+
+> `Java` `Spring Boot` `PostgreSQL` `React.js` `Distributed Systems` `REST APIs`
+
+- Developed a distributed task scheduling system that dispatches prioritized tasks across multiple workers for parallel execution.
+- Implemented heartbeat-based worker failure detection, automatic task reassignment, and retry mechanisms for fault tolerance.
+- Implemented active-passive scheduler failover using lease-based coordination and fencing tokens to prevent concurrent scheduler execution.
+- Built REST APIs and an interactive React.js dashboard for task management, worker monitoring, and execution tracking.
+- Designed the system to improve scalability, reliability, and execution continuity in distributed environments.
+
+---
+
 ### [🩺 DiagnostiX — AI-Powered Disease Prediction Platform](https://github.com/deepanshu-s-21/diagnostix)
 
 > `Python` `Flask` `React.js` `Scikit-learn` `Pandas` `NumPy`
@@ -119,7 +131,6 @@ public class Deepanshu extends Developer {
 - Enhanced productivity by enabling users to generate professional, friendly, or formal email replies within seconds.
 
 ---
-
 ## 📈 My Contribution Graph
 
 <picture>
