@@ -44,12 +44,12 @@ public class Deepanshu extends Developer {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepanshu21singh/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepanshu124singh@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deepanshu-s-21)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/deepanshu_s_21/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/deepanshu21s)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/deepanshu_21_s)
+<a href="https://linkedin.com/in/deepanshu21singh"><img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:deepanshu124singh@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="50" alt="Gmail"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/deepanshu-s-21"><img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://leetcode.com/u/deepanshu_s_21/"><img src="https://cdn.simpleicons.org/leetcode/FFA116" height="50" alt="LeetCode"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.geeksforgeeks.org/profile/deepanshu21s"><img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" height="50" alt="GeeksforGeeks"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.codechef.com/users/deepanshu_21_s"><img src="https://cdn.simpleicons.org/codechef/5B4638" height="50" alt="CodeChef"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 </div>
 
