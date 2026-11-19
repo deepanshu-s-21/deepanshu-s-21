@@ -138,7 +138,7 @@ public class Deepanshu extends Developer {
 | Platform | Progress |
 |----------|----------|
 | 🟡 LeetCode | **400+ Problems Solved** |
-| 🟢 GeeksforGeeks | **200+ Problems Solved** |
+| 🟢 GeeksforGeeks | **250+ Problems Solved** |
 | 🤎 CodeChef | **2-Star Coder** |
 
 </div>
