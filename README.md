@@ -152,8 +152,6 @@ public class Deepanshu extends Developer {
 
 📌 Learning Microservices & System Design
 
-📌 Exploring Cloud Computing
-
 📌 Performance Engineering
 
 📌 Backend Development with Spring Boot
