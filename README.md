@@ -154,7 +154,7 @@ public class Deepanshu extends Developer {
 
 📌 Performance Engineering
 
-📌 Backend Development with Spring Boot
+📌 Backend Development
 
 📌 Preparing for SDE Interviews
 ```
