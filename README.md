@@ -152,8 +152,6 @@ public class Deepanshu extends Developer {
 
 📌 Learning Microservices & System Design
 
-📌 Performance Engineering
-
 📌 Backend Development
 
 📌 Preparing for SDE Interviews
