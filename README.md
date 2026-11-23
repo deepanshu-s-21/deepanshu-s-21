@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Deepanshu%20Singh&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Full%20Stack%20Developer%20%7C%20Java%20Developer&descAlignY=60&descSize=18&animation=fadeIn" />
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=850&lines=Backend+Developer;Full+Stack+Developer;Spring+Boot+Developer;MERN+Stack+Developer;Java+Developer;Data+Structures+%26+Algorithms;Problem+Solver;Always+Building+Scalable+Applications;Open+to+SDE+Opportunities" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=850&lines=Backend+Developer;Full+Stack+Developer;Spring+Boot+Developer;Java+Developer;Data+Structures+%26+Algorithms;Problem+Solver;Always+Building+Scalable+Applications;Open+to+SDE+Opportunities" alt="Typing SVG" />
 
 <br/>
 
