@@ -150,7 +150,7 @@ public class Deepanshu extends Developer {
 ```text
 📌 Building a Distributed Task Scheduler
 
-📌 Learning Microservices & System Design
+📌 Learning Microservices and System Design
 
 📌 Backend Development
 
