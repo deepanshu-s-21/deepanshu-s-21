@@ -32,7 +32,7 @@ public class Deepanshu extends Developer {
 ```
 
 - 🎓 Final Year **B.Tech Computer Science & Engineering** Student
-- 💻 Passionate about **Backend Development, Distributed Systems and Scalable Software**
+- 💻 Passionate about **Backend Development, Distributed Systems and Scalable Software Designs**
 - 🌱 Currently learning **System Design, Microservices and Distributed Architecture**
 - ⚡ Building projects using **Spring Boot, FastAPI, Angular, Java and Python**
 - 🧩 Solved **650+ DSA Problems** across coding platforms
